@@ -1,7 +1,7 @@
 # Kama Calculator
 
 
-Currency Converter App helps users to convert USD into another usable currency (RUB,SOM or EUR) in just a moment.
+Currency Converter App helps users to convert USD into another usable currency (RUB,SOM or GBP) in just a moment.
 
  Project requirements:
 
